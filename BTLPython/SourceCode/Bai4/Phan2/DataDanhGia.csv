@@ -1,0 +1,300 @@
+Player,Nation,Squad,Pos,Age_Score,Time_Score,Performance_Score,DanhGia
+Aaron Ramsdale,engENG,Southampton,GK,0.6,0.8,1.02,1
+Aaron Wan-Bissaka,engENG,West Ham,DF,0.6,1.0,1.29,1
+Abdoulaye Doucouré,mlMLI,Everton,MF,0.2,0.8,1.17,0
+Adam Armstrong,engENG,Southampton,FW-MF,0.4,0.4,0.56,0
+Adam Smith,engENG,Bournemouth,DF,0.1,0.4,0.41,0
+Adam Wharton,engENG,Crystal Palace,MF,0.9,0.4,1.21,1
+Adama Traoré,esESP,Fulham,FW-MF,0.4,0.6,1.0,0
+Alejandro Garnacho,arARG,Manchester Utd,MF-FW,0.9,0.8,1.05,1
+Alex Iwobi,ngNGA,Fulham,FW-MF,0.4,1.0,1.66,1
+Alexander Isak,seSWE,Newcastle Utd,FW,0.6,0.8,1.72,1
+Alexis Mac Allister,arARG,Liverpool,MF,0.6,1.0,1.76,1
+Alisson,brBRA,Liverpool,GK,0.2,0.8,0.58,0
+Alphonse Areola,frFRA,West Ham,GK,0.2,0.6,0.75,0
+Amad Diallo,ciCIV,Manchester Utd,FW-MF,0.8,0.6,1.07,1
+Amadou Onana,beBEL,Aston Villa,MF,0.8,0.4,1.15,0
+Andreas Pereira,brBRA,Fulham,MF,0.4,0.6,1.27,0
+Andrew Robertson,sctSCO,Liverpool,DF,0.2,0.8,0.6,0
+André,brBRA,Wolves,MF,0.8,0.8,1.48,1
+André Onana,cmCMR,Manchester Utd,GK,0.4,1.0,0.75,0
+Anthony Elanga,seSWE,Nott'ham Forest,FW-MF,0.8,0.8,1.0,1
+Anthony Gordon,engENG,Newcastle Utd,FW,0.8,0.8,1.12,1
+Antoine Semenyo,ghGHA,Bournemouth,FW,0.6,1.0,1.27,1
+Antonee Robinson,usUSA,Fulham,DF,0.6,1.0,1.54,1
+Archie Gray,engENG,Tottenham,DF-MF,0.9,0.4,0.74,0
+Arijanet Muric,xkKVX,Ipswich Town,GK,0.6,0.6,0.78,0
+Ashley Young,engENG,Everton,DF-FW,0.1,0.6,0.44,0
+Axel Tuanzebe,cdCOD,Ipswich Town,DF,0.6,0.4,0.61,0
+Bart Verbruggen,nlNED,Brighton,GK,0.8,1.0,0.74,1
+Ben Davies,wlsWAL,Tottenham,DF,0.2,0.4,0.48,0
+Ben Johnson,engENG,Ipswich Town,DF-FW,0.6,0.4,0.39,0
+Bernardo Silva,ptPOR,Manchester City,MF-FW,0.4,0.8,1.28,1
+Bernd Leno,deGER,Fulham,GK,0.2,1.0,0.64,0
+Beto,gwGNB,Everton,FW,0.6,0.4,0.4,0
+Bilal El Khannouss,maMAR,Leicester City,MF,0.9,0.6,1.35,1
+Boubacar Kamara,frFRA,Aston Villa,MF,0.6,0.4,1.18,0
+Boubakary Soumaré,frFRA,Leicester City,MF,0.6,0.6,1.36,1
+Brennan Johnson,wlsWAL,Tottenham,FW,0.8,0.8,0.97,1
+Bruno Fernandes,ptPOR,Manchester Utd,MF,0.4,1.0,2.41,1
+Bruno Guimarães,brBRA,Newcastle Utd,MF,0.6,1.0,2.11,1
+Bryan Mbeumo,cmCMR,Brentford,FW,0.6,1.0,1.75,1
+Bukayo Saka,engENG,Arsenal,FW-MF,0.8,0.4,1.22,1
+Caleb Okoli,itITA,Leicester City,DF,0.8,0.4,0.61,0
+Callum Hudson-Odoi,engENG,Nott'ham Forest,FW-MF,0.8,0.8,1.06,1
+Calvin Bassey,ngNGA,Fulham,DF,0.6,1.0,1.0,1
+Cameron Archer,engENG,Southampton,FW,0.8,0.4,0.3,0
+Cameron Burgess,auAUS,Ipswich Town,DF,0.4,0.4,0.44,0
+Carlos Baleba,cmCMR,Brighton,MF,0.9,0.8,1.5,1
+Carlos Soler,esESP,West Ham,MF-FW,0.4,0.4,0.64,0
+Casemiro,brBRA,Manchester Utd,MF,0.2,0.4,1.2,0
+Chris Richards,usUSA,Crystal Palace,DF,0.6,0.6,0.86,0
+Chris Wood,nzNZL,Nott'ham Forest,FW,0.2,1.0,1.04,0
+Christian Eriksen,dkDEN,Manchester Utd,MF,0.2,0.4,1.06,0
+Christian Nørgaard,dkDEN,Brentford,MF,0.2,0.8,1.44,1
+Christopher Nkunku,frFRA,Chelsea,FW,0.6,0.4,0.44,0
+Cody Gakpo,nlNED,Liverpool,FW,0.6,0.6,0.89,0
+Cole Palmer,engENG,Chelsea,MF,0.8,1.0,2.11,1
+Conor Coady,engENG,Leicester City,DF,0.2,0.4,0.51,0
+Craig Dawson,engENG,Wolves,DF,0.1,0.4,0.37,0
+Cristian Romero,arARG,Tottenham,DF,0.6,0.4,0.7,0
+Curtis Jones,engENG,Liverpool,MF-DF,0.8,0.4,0.94,0
+Daichi Kamada,jpJPN,Crystal Palace,MF,0.4,0.4,1.07,0
+Dan Burn,engENG,Newcastle Utd,DF,0.2,1.0,0.86,0
+Dango Ouattara,bfBFA,Bournemouth,FW,0.8,0.6,1.03,1
+Daniel Muñoz,coCOL,Crystal Palace,DF,0.4,1.0,1.61,1
+Danny Welbeck,engENG,Brighton,FW,0.1,0.6,0.69,0
+Dara O'Shea,ieIRL,Ipswich Town,DF,0.6,1.0,1.36,1
+Darwin Núñez,uyURU,Liverpool,FW,0.6,0.4,0.41,0
+David Raya,esESP,Arsenal,GK,0.4,1.0,0.6,0
+Dean Henderson,engENG,Crystal Palace,GK,0.4,1.0,0.85,0
+Dean Huijsen,esESP,Bournemouth,DF,0.9,0.8,1.08,1
+Declan Rice,engENG,Arsenal,MF,0.6,1.0,1.88,1
+Dejan Kulusevski,seSWE,Tottenham,MF-FW,0.6,0.8,1.31,1
+Destiny Udogie,itITA,Tottenham,DF,0.8,0.6,1.24,1
+Diogo Dalot,ptPOR,Manchester Utd,DF,0.6,1.0,1.09,1
+Diogo Jota,ptPOR,Liverpool,FW,0.4,0.4,0.65,0
+Djed Spence,engENG,Tottenham,DF,0.8,0.6,0.75,0
+Dominic Calvert-Lewin,engENG,Everton,FW,0.4,0.6,0.41,0
+Dominic Solanke,engENG,Tottenham,FW,0.6,0.8,0.84,0
+Dominik Szoboszlai,huHUN,Liverpool,MF,0.8,0.8,1.65,1
+Dwight McNeil,engENG,Everton,MF-FW,0.6,0.4,0.86,0
+Eberechi Eze,engENG,Crystal Palace,MF-FW,0.6,0.8,1.2,1
+Ederson,brBRA,Manchester City,GK,0.2,0.8,0.64,0
+Edson Álvarez,mxMEX,West Ham,MF,0.6,0.6,1.26,1
+Elliot Anderson,engENG,Nott'ham Forest,MF,0.8,0.8,1.36,1
+Emerson Palmieri,itITA,West Ham,DF,0.4,0.8,0.96,0
+Emile Smith Rowe,engENG,Fulham,MF,0.8,0.6,1.42,1
+Emiliano Martínez,arARG,Aston Villa,GK,0.2,1.0,0.8,0
+Emmanuel Agbadou,ciCIV,Wolves,DF,0.6,0.4,0.5,0
+Enzo Fernández,arARG,Chelsea,MF,0.8,1.0,2.06,1
+Erling Haaland,noNOR,Manchester City,FW,0.8,0.8,1.38,1
+Ethan Pinnock,jmJAM,Brentford,DF,0.2,0.6,0.8,0
+Evanilson,brBRA,Bournemouth,FW,0.6,0.6,0.64,0
+Ezri Konsa,engENG,Aston Villa,DF,0.6,1.0,0.62,0
+Fabian Schär,chSUI,Newcastle Utd,DF,0.2,1.0,0.99,0
+Facundo Buonanotte,arARG,Leicester City,FW-MF,0.9,0.4,0.75,0
+Flynn Downes,engENG,Southampton,MF,0.6,0.6,1.24,1
+Gabriel Magalhães,brBRA,Arsenal,DF,0.6,0.8,0.85,0
+Gabriel Martinelli,brBRA,Arsenal,FW-MF,0.8,0.6,1.04,1
+Georginio Rutter,frFRA,Brighton,MF-FW,0.8,0.6,0.72,0
+Guglielmo Vicario,itITA,Tottenham,GK,0.4,0.6,0.67,0
+Guido Rodríguez,arARG,West Ham,MF,0.2,0.4,0.9,0
+Harry Maguire,engENG,Manchester Utd,DF,0.2,0.4,0.65,0
+Harry Wilson,wlsWAL,Fulham,FW-MF,0.4,0.4,0.62,0
+Harry Winks,engENG,Leicester City,MF,0.4,0.6,1.39,0
+Harvey Barnes,engENG,Newcastle Utd,FW,0.6,0.4,0.97,0
+Ibrahima Konaté,frFRA,Liverpool,DF,0.6,0.8,0.76,0
+Idrissa Gana Gueye,snSEN,Everton,MF,0.1,1.0,1.53,1
+Igor,brBRA,Brighton,DF,0.6,0.4,0.36,0
+Iliman Ndiaye,snSEN,Everton,FW,0.6,0.8,0.6,0
+Illia Zabarnyi,uaUKR,Bournemouth,DF,0.8,1.0,1.09,1
+Ismaila Sarr,snSEN,Crystal Palace,MF-FW,0.6,0.8,1.08,1
+Issa Diop,frFRA,Fulham,DF,0.4,0.4,0.39,0
+Jack Clarke,engENG,Ipswich Town,FW-MF,0.8,0.4,0.6,0
+Jack Harrison,engENG,Everton,FW,0.4,0.6,0.52,0
+Jack Hinshelwood,engENG,Brighton,DF-MF,0.9,0.6,0.77,0
+Jack Stephens,engENG,Southampton,DF,0.2,0.4,0.51,0
+Jacob Greaves,engENG,Ipswich Town,DF,0.8,0.6,0.82,0
+Jacob Murphy,engENG,Newcastle Utd,FW,0.4,0.8,1.32,1
+Jacob Ramsey,engENG,Aston Villa,FW-MF,0.8,0.4,0.81,0
+Jadon Sancho,engENG,Chelsea,FW,0.6,0.6,0.78,0
+Jake O'Brien,ieIRL,Everton,DF,0.8,0.4,0.4,0
+James Garner,engENG,Everton,MF-DF,0.8,0.4,0.71,0
+James Justin,engENG,Leicester City,DF,0.6,1.0,1.17,1
+James Maddison,engENG,Tottenham,MF,0.4,0.6,1.67,1
+James Tarkowski,engENG,Everton,DF,0.2,1.0,1.54,1
+Jamie Vardy,engENG,Leicester City,FW,0.1,1.0,0.77,0
+Jan Bednarek,plPOL,Southampton,DF,0.4,0.8,1.19,0
+Jan Paul van Hecke,nlNED,Brighton,DF,0.8,1.0,0.9,1
+Jannik Vestergaard,dkDEN,Leicester City,DF,0.2,0.4,0.54,0
+Jarrad Branthwaite,engENG,Everton,DF,0.8,0.8,0.83,1
+Jarrod Bowen,engENG,West Ham,FW-MF,0.4,1.0,1.28,1
+Jean-Clair Todibo,frFRA,West Ham,DF,0.6,0.4,0.75,0
+Jean-Philippe Mateta,frFRA,Crystal Palace,FW,0.6,0.8,1.03,1
+Jean-Ricner Bellegarde,frFRA,Wolves,MF-FW,0.6,0.6,0.82,0
+Jefferson Lerma,coCOL,Crystal Palace,MF-DF,0.4,0.8,1.0,0
+Jens Cajuste,seSWE,Ipswich Town,MF,0.6,0.6,0.98,0
+Jeremy Doku,beBEL,Manchester City,FW-MF,0.8,0.4,1.12,0
+Jesper Lindstrøm,dkDEN,Everton,FW,0.6,0.4,0.3,0
+Joachim Andersen,dkDEN,Fulham,DF,0.4,0.8,0.83,0
+Joe Aribo,ngNGA,Southampton,MF-DF,0.4,0.6,1.02,0
+Joe Willock,engENG,Newcastle Utd,MF-FW,0.6,0.4,0.6,0
+Joelinton,brBRA,Newcastle Utd,MF-FW,0.4,0.8,0.96,0
+John McGinn,sctSCO,Aston Villa,MF-FW,0.4,0.6,0.92,0
+Jordan Ayew,ghGHA,Leicester City,FW-MF,0.2,0.4,0.57,0
+Jordan Pickford,engENG,Everton,GK,0.2,1.0,0.97,0
+Joshua Zirkzee,nlNED,Manchester Utd,FW-MF,0.8,0.4,0.56,0
+José Sá,ptPOR,Wolves,GK,0.2,0.8,0.86,0
+João Gomes,brBRA,Wolves,MF,0.8,1.0,1.56,1
+João Pedro,brBRA,Brighton,FW-MF,0.8,0.6,1.08,1
+Joël Veltman,nlNED,Brighton,DF,0.2,0.6,0.78,0
+Joško Gvardiol,hrCRO,Manchester City,DF,0.8,1.0,1.18,1
+Jurriën Timber,nlNED,Arsenal,DF,0.8,0.8,0.86,1
+Justin Kluivert,nlNED,Bournemouth,MF-FW,0.6,0.8,1.22,1
+Jørgen Strand Larsen,noNOR,Wolves,FW,0.6,0.8,0.84,0
+Kai Havertz,deGER,Arsenal,FW-MF,0.6,0.6,0.86,0
+Kalvin Phillips,engENG,Ipswich Town,MF,0.4,0.4,0.92,0
+Kamaldeen Sulemana,ghGHA,Southampton,FW-MF,0.8,0.4,0.55,0
+Kaoru Mitoma,jpJPN,Brighton,FW-MF,0.6,1.0,1.22,1
+Keane Lewis-Potter,engENG,Brentford,DF-FW,0.8,1.0,0.71,1
+Kenny Tete,nlNED,Fulham,DF,0.4,0.4,0.86,0
+Kepa Arrizabalaga,esESP,Bournemouth,GK,0.4,0.8,0.7,0
+Kevin De Bruyne,beBEL,Manchester City,MF-FW,0.2,0.6,1.33,0
+Kevin Schade,deGER,Brentford,FW,0.8,0.6,0.78,0
+Kieran Trippier,engENG,Newcastle Utd,DF,0.1,0.4,0.49,0
+Kobbie Mainoo,engENG,Manchester Utd,MF,0.9,0.4,1.14,1
+Konstantinos Mavropanos,grGRE,West Ham,DF,0.6,0.6,0.84,0
+Kristoffer Ajer,noNOR,Brentford,DF,0.6,0.4,0.51,0
+Kyle Walker,engENG,Manchester City,DF,0.1,0.4,0.33,0
+Kyle Walker-Peters,engENG,Southampton,DF,0.4,1.0,0.8,0
+Leandro Trossard,beBEL,Arsenal,FW,0.4,0.8,0.96,0
+Leif Davis,engENG,Ipswich Town,DF,0.6,1.0,0.85,1
+Leny Yoro,frFRA,Manchester Utd,DF,0.9,0.4,0.36,0
+Leon Bailey,jmJAM,Aston Villa,FW-MF,0.6,0.4,0.6,0
+Lesley Ugochukwu,frFRA,Southampton,MF,0.9,0.4,1.04,0
+Levi Colwill,engENG,Chelsea,DF,0.8,1.0,1.0,1
+Lewis Cook,engENG,Bournemouth,MF-DF,0.4,1.0,1.45,1
+Lewis Dunk,engENG,Brighton,DF,0.2,0.6,0.56,0
+Lewis Hall,engENG,Newcastle Utd,DF,0.9,0.8,1.09,1
+Liam Delap,engENG,Ipswich Town,FW,0.8,0.8,0.79,0
+Lisandro Martínez,arARG,Manchester Utd,DF,0.6,0.6,0.83,0
+Lucas Bergvall,seSWE,Tottenham,MF,0.9,0.4,1.16,1
+Lucas Digne,frFRA,Aston Villa,DF,0.2,0.8,0.99,0
+Lucas Paquetá,brBRA,West Ham,MF-FW,0.6,0.8,1.07,1
+Luis Díaz,coCOL,Liverpool,FW,0.4,0.8,1.37,1
+Luke Woolfenden,engENG,Ipswich Town,DF,0.6,0.4,0.46,0
+Mads Hermansen,dkDEN,Leicester City,GK,0.8,0.8,0.94,1
+Mads Roerslev,dkDEN,Brentford,DF,0.6,0.4,0.31,0
+Malo Gusto,frFRA,Chelsea,DF,0.9,0.6,0.88,0
+Manuel Akanji,chSUI,Manchester City,DF,0.4,0.6,0.33,0
+Manuel Ugarte Ribeiro,uyURU,Manchester Utd,MF,0.8,0.6,1.18,1
+Marc Cucurella,esESP,Chelsea,DF,0.6,1.0,1.13,1
+Marc Guéhi,engENG,Crystal Palace,DF,0.8,1.0,1.28,1
+Marcos Senesi,arARG,Bournemouth,DF,0.6,0.4,0.55,0
+Marcus Rashford,engENG,Manchester Utd,FW-MF,0.6,0.4,0.57,0
+Marcus Tavernier,engENG,Bournemouth,FW-MF,0.6,0.6,0.97,0
+Mario Lemina,gaGAB,Wolves,MF-DF,0.2,0.4,0.89,0
+Mark Flekken,nlNED,Brentford,GK,0.2,1.0,0.73,0
+Martin Ødegaard,noNOR,Arsenal,MF,0.6,0.8,2.06,1
+Mateo Kovačić,hrCRO,Manchester City,MF,0.4,0.8,1.9,1
+Mateus Fernandes,ptPOR,Southampton,MF,0.9,1.0,1.45,1
+Matheus Cunha,brBRA,Wolves,MF-FW,0.6,0.8,1.5,1
+Matheus Nunes,ptPOR,Manchester City,DF-MF,0.6,0.4,0.95,0
+Matt Doherty,ieIRL,Wolves,DF,0.2,0.6,0.77,0
+Matthijs de Ligt,nlNED,Manchester Utd,DF,0.6,0.8,0.9,0
+Matty Cash,plPOL,Aston Villa,DF,0.6,0.6,0.73,0
+Matz Sels,beBEL,Nott'ham Forest,GK,0.2,1.0,0.72,0
+Max Kilman,engENG,West Ham,DF,0.6,1.0,1.21,1
+Maxence Lacroix,frFRA,Crystal Palace,DF,0.6,1.0,1.4,1
+Micky van de Ven,nlNED,Tottenham,DF,0.8,0.4,0.28,0
+Mikel Merino,esESP,Arsenal,MF-FW,0.4,0.4,0.77,0
+Mikkel Damsgaard,dkDEN,Brentford,MF-FW,0.8,1.0,1.56,1
+Milos Kerkez,huHUN,Bournemouth,DF,0.9,1.0,1.09,1
+Mohamed Salah,egEGY,Liverpool,FW,0.2,1.0,3.05,1
+Mohammed Kudus,ghGHA,West Ham,FW-MF,0.8,0.8,1.03,1
+Moisés Caicedo,ecECU,Chelsea,MF,0.8,1.0,2.09,1
+Morgan Gibbs-White,engENG,Nott'ham Forest,MF,0.6,0.8,1.59,1
+Morgan Rogers,engENG,Aston Villa,FW-MF,0.8,1.0,1.33,1
+Murillo,brBRA,Nott'ham Forest,DF,0.8,1.0,1.51,1
+Myles Lewis-Skelly,engENG,Arsenal,DF,1.0,0.4,0.24,0
+Nathan Collins,ieIRL,Brentford,DF,0.8,1.0,1.41,1
+Neco Williams,wlsWAL,Nott'ham Forest,DF,0.8,0.8,1.26,1
+Nick Pope,engENG,Newcastle Utd,GK,0.2,0.8,0.86,0
+Nicolas Jackson,snSEN,Chelsea,FW,0.8,0.8,1.05,1
+Nicolás Domínguez,arARG,Nott'ham Forest,MF-FW,0.6,0.6,0.68,0
+Nikola Milenković,rsSRB,Nott'ham Forest,DF,0.6,1.0,1.02,1
+Noni Madueke,engENG,Chelsea,FW,0.8,0.6,1.06,1
+Noussair Mazraoui,maMAR,Manchester Utd,DF,0.6,1.0,1.49,1
+Nélson Semedo,ptPOR,Wolves,DF,0.2,1.0,0.99,0
+Ola Aina,ngNGA,Nott'ham Forest,DF,0.4,1.0,1.12,1
+Oliver Skipp,engENG,Leicester City,MF,0.8,0.4,0.92,0
+Ollie Watkins,engENG,Aston Villa,FW,0.4,0.8,1.27,1
+Omar Marmoush,egEGY,Manchester City,FW-MF,0.6,0.4,0.65,0
+Omari Hutchinson,engENG,Ipswich Town,MF-FW,0.9,0.8,0.86,1
+Orel Mangala,beBEL,Everton,MF,0.6,0.4,1.08,0
+Pape Matar Sarr,snSEN,Tottenham,MF,0.8,0.6,1.3,1
+Pau Torres,esESP,Aston Villa,DF,0.4,0.6,0.42,0
+Paul Onuachu,ngNGA,Southampton,FW,0.4,0.4,0.25,0
+Pedro Neto,ptPOR,Chelsea,FW,0.6,0.6,0.85,0
+Pedro Porro,esESP,Tottenham,DF,0.6,0.8,1.37,1
+Pervis Estupiñán,ecECU,Brighton,DF,0.6,0.8,0.88,0
+Phil Foden,engENG,Manchester City,MF-FW,0.8,0.6,1.14,1
+Radu Drăgușin,roROU,Tottenham,DF,0.8,0.4,0.47,0
+Rasmus Højlund,dkDEN,Manchester Utd,FW,0.8,0.6,0.36,0
+Rayan Aït-Nouri,dzALG,Wolves,DF,0.8,1.0,1.34,1
+Raúl Jiménez,mxMEX,Fulham,FW,0.2,0.8,0.92,0
+Riccardo Calafiori,itITA,Arsenal,DF,0.8,0.4,0.46,0
+Rico Lewis,engENG,Manchester City,DF-MF,0.9,0.6,1.05,1
+Robert Sánchez,esESP,Chelsea,GK,0.6,1.0,0.73,0
+Rodrigo Bentancur,uyURU,Tottenham,MF,0.6,0.6,1.4,1
+Rodrigo Muniz,brBRA,Fulham,FW,0.8,0.4,0.45,0
+Ryan Christie,sctSCO,Bournemouth,MF,0.4,0.8,1.57,1
+Ryan Gravenberch,nlNED,Liverpool,MF,0.8,1.0,1.82,1
+Ryan Manning,ieIRL,Southampton,DF-MF,0.4,0.4,0.84,0
+Ryan Yates,engENG,Nott'ham Forest,MF,0.6,0.6,1.01,0
+Rúben Dias,ptPOR,Manchester City,DF,0.6,0.8,0.48,0
+Sam Morsy,egEGY,Ipswich Town,MF,0.2,0.8,1.47,1
+Sammie Szmodics,ieIRL,Ipswich Town,FW-MF,0.4,0.4,0.48,0
+Sander Berge,noNOR,Fulham,MF,0.6,0.8,1.47,1
+Sandro Tonali,itITA,Newcastle Utd,MF,0.8,0.8,1.46,1
+Santiago Bueno,uyURU,Wolves,DF,0.6,0.6,0.86,0
+Saša Lukić,rsSRB,Fulham,MF,0.4,0.8,1.46,1
+Sepp van den Berg,nlNED,Brentford,DF,0.8,0.8,1.04,1
+Son Heung-min,krKOR,Tottenham,FW,0.2,0.8,1.41,1
+Stefan Ortega,deGER,Manchester City,GK,0.2,0.4,0.72,0
+Stephy Mavididi,engENG,Leicester City,FW,0.6,0.6,0.57,0
+Sávio,brBRA,Manchester City,FW-MF,0.9,0.6,1.26,1
+Taylor Harwood-Bellis,engENG,Southampton,DF,0.8,1.0,1.2,1
+Thomas Partey,ghGHA,Arsenal,MF-DF,0.2,0.8,1.48,1
+Timothy Castagne,beBEL,Fulham,DF,0.4,0.6,0.74,0
+Tomáš Souček,czCZE,West Ham,MF,0.4,0.8,0.99,0
+Tosin Adarabioyo,engENG,Chelsea,DF,0.6,0.4,0.32,0
+Toti Gomes,ptPOR,Wolves,DF,0.6,0.8,1.01,1
+Trent Alexander-Arnold,engENG,Liverpool,DF,0.6,0.8,1.17,1
+Trevoh Chalobah,engENG,Crystal Palace,DF,0.6,0.4,0.56,0
+Tyler Adams,usUSA,Bournemouth,MF,0.6,0.6,1.08,0
+Tyler Dibling,engENG,Southampton,FW-MF,0.9,0.6,0.71,0
+Tyrick Mitchell,engENG,Crystal Palace,DF,0.6,1.0,1.48,1
+Tyrone Mings,engENG,Aston Villa,DF,0.2,0.4,0.27,0
+Valentino Livramento,engENG,Newcastle Utd,DF,0.8,0.8,0.99,1
+Victor Bernth Kristiansen,dkDEN,Leicester City,DF,0.8,0.8,1.45,1
+Virgil van Dijk,nlNED,Liverpool,DF,0.2,1.0,0.91,0
+Vitaliy Mykolenko,uaUKR,Everton,DF,0.6,1.0,0.98,1
+Vitaly Janelt,deGER,Brentford,MF,0.6,0.8,1.31,1
+Wes Burns,wlsWAL,Ipswich Town,FW-DF,0.4,0.4,0.25,0
+Wesley Fofana,frFRA,Chelsea,DF,0.8,0.4,0.4,0
+Wilfred Ndidi,ngNGA,Leicester City,MF,0.4,0.8,1.07,0
+Will Hughes,engENG,Crystal Palace,MF,0.4,0.6,1.16,0
+William Saliba,frFRA,Arsenal,DF,0.8,1.0,0.9,1
+Wout Faes,beBEL,Leicester City,DF,0.6,0.8,1.08,1
+Yankuba Minteh,gmGAM,Brighton,FW-MF,0.9,0.4,0.78,0
+Yasin Ayari,seSWE,Brighton,MF,0.9,0.6,1.18,1
+Yehor Yarmoliuk,uaUKR,Brentford,MF,0.9,0.4,1.09,0
+Yoane Wissa,cdCOD,Brentford,FW,0.4,1.0,1.2,1
+Youri Tielemans,beBEL,Aston Villa,MF,0.6,1.0,2.16,1
+Yukinari Sugawara,jpJPN,Southampton,DF-MF,0.8,0.4,0.85,0
+Yves Bissouma,mlMLI,Tottenham,MF,0.4,0.4,1.19,0
+Álex Moreno,esESP,Nott'ham Forest,DF-MF,0.2,0.4,0.59,0
+İlkay Gündoğan,deGER,Manchester City,MF,0.1,0.8,1.68,1
+Łukasz Fabiański,plPOL,West Ham,GK,0.1,0.4,0.8,0
